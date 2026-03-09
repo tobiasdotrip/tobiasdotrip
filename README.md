@@ -11,5 +11,10 @@ TypeScript & Python developer.
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+
+### Projects
+
+🤬 [**putain**](https://github.com/tobiasdotrip/putain) — Correcteur de commandes shell en Rust. Clone français de [thefuck](https://github.com/nvbn/thefuck) avec des réponses progressivement plus exaspérées à chaque erreur.
