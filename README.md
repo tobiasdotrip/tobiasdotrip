@@ -1,4 +1,4 @@
-[![Conga!](assets/conga.gif)](https://matias.me/nsfw/)
+<a href="https://matias.me/nsfw/"><img src="assets/conga.gif" width="100%" alt="Conga!" /></a>
 
 ---
 
