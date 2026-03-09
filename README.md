@@ -1,4 +1,6 @@
-<a href="https://matias.me/nsfw/"><img src="assets/conga.gif" width="100%" height="500" alt="Conga!" /></a>
+<p align="center">
+  <img src="https://www.pokepedia.fr/images/2/29/Sprite_0132_Smile.png?20220603194144" width="200" alt="Ditto" />
+</p>
 
 ---
 
