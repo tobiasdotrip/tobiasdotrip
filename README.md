@@ -13,9 +13,3 @@ TypeScript & Python developer.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=tobiasdotrip&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=tobiasdotrip&layout=compact&theme=github_dark&hide_border=true)
