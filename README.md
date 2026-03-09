@@ -14,6 +14,6 @@ TypeScript & Python developer.
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobiasdotrip&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=tobiasdotrip&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasdotrip&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=tobiasdotrip&layout=compact&theme=github_dark&hide_border=true)
