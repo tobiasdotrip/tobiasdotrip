@@ -1,4 +1,4 @@
-<a href="https://matias.me/nsfw/"><img src="assets/conga.gif" width="100%" height="550" alt="Conga!" /></a>
+<a href="https://matias.me/nsfw/"><img src="assets/conga.gif" width="100%" height="500" alt="Conga!" /></a>
 
 ---
 
