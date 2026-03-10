@@ -20,3 +20,5 @@ TypeScript & Python developer.
 ### Projects
 
 🤬 [**putain**](https://github.com/tobiasdotrip/putain) — Correcteur de commandes shell en Rust. Clone français de [thefuck](https://github.com/nvbn/thefuck) avec des réponses progressivement plus exaspérées à chaque erreur.
+
+☁️ [**pyinfra-hetzner-cloud**](https://github.com/tobiasdotrip/pyinfra-hetzner-cloud) — Opérations et facts Hetzner Cloud pour [pyinfra](https://pyinfra.com). Gestion déclarative de serveurs, clés SSH et firewalls.
