@@ -19,10 +19,10 @@ TypeScript & Python developer.
 
 ### Projects
 
+🃏 [**mtg-prices**](https://github.com/tobiasdotrip/mtg-prices) — Tracker de prix Magic: The Gathering via Scryfall. Gestion multi-decks, tendances 7j/30j, export CSV/JSON.
+
 🗑️ [**zut**](https://github.com/tobiasdotrip/zut) — Un `rm` sarcastique en Rust qui déplace tes fichiers à la corbeille au lieu de les supprimer. Avec personnalité passive-agressive incluse.
 
 🤬 [**putain**](https://github.com/tobiasdotrip/putain) — Correcteur de commandes shell en Rust. Clone français de [thefuck](https://github.com/nvbn/thefuck) avec des réponses progressivement plus exaspérées à chaque erreur.
 
 ☁️ [**pyinfra-hetzner-cloud**](https://github.com/tobiasdotrip/pyinfra-hetzner-cloud) — Opérations et facts Hetzner Cloud pour [pyinfra](https://pyinfra.com). Gestion déclarative de serveurs, clés SSH et firewalls.
-
-🃏 [**mtg-prices**](https://github.com/tobiasdotrip/mtg-prices) — Tracker de prix Magic: The Gathering via Scryfall. Gestion multi-decks, tendances 7j/30j, export CSV/JSON.
