@@ -19,6 +19,8 @@ TypeScript & Python developer.
 
 ### Projects
 
+🔍 [**magpie**](https://github.com/tobiasdotrip/magpie) — Scanner de secrets git rapide et zero-config. Binaire unique, règles intégrées, scoring de confiance.
+
 🃏 [**mtg-prices**](https://github.com/tobiasdotrip/mtg-prices) — Tracker de prix Magic: The Gathering via Scryfall. Gestion multi-decks, tendances 7j/30j, export CSV/JSON.
 
 🗑️ [**zut**](https://github.com/tobiasdotrip/zut) — Un `rm` sarcastique en Rust qui déplace tes fichiers à la corbeille au lieu de les supprimer. Avec personnalité passive-agressive incluse.
